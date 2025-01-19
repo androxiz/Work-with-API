@@ -1,43 +1,47 @@
 ---
 
-# Pokémon Stats Viewer
+# Pokemon Stats Viewer
 
-This Python application allows users to search for Pokémon details, including stats, weight, and abilities, using the PokéAPI. Users can search for any Pokémon and view its stats, abilities, and their effects.
+This Python application allows users to search for Pokemon details, including stats, weight, and abilities, using the PokeAPI. Users can search for any Pokemon and view its stats, abilities, and their effects.
 ---
 
 ## 📋 Description
 
-* This application retrieves information about Pokémon from the [PokéAPI](https://pokeapi.co/).
+* This application retrieves information about Pokemon from the [PokeAPI](https://pokeapi.co/).
 
-* Users can search for a Pokémon by its name, and the app will display detailed information including:
+* Users can search for a Pokemon by its name, and the app will display detailed information including:
 
-  * **Name**: The Pokémon’s name.
+  * **Name**: The Pokemon’s name.
   
-  * **Stats**: Various base stats of the Pokémon.
+  * **Stats**: Various base stats of the Pokemon.
   
-  * **Weight**: The Pokémon's weight.
+  * **Weight**: The Pokemon's weight.
   
-  * **Abilities**: The Pokémon’s abilities and their effects.
+  * **Abilities**: The Pokemon’s abilities and their effects.
 
 * The application runs in the terminal and continues until the user decides to exit.
 
-* If the Pokémon name is incorrect, an error message will be displayed.
+* If the Pokemon name is incorrect, an error message will be displayed.
 
+---
+## 🐾 Pokemon List
+* You can find all available pockemons [here]((https://pokeapi.co/api/v2/pokemon?limit=100000&offset=0)).
+* Or you can open the file pokemons_list.txt to see the full list of available Pokemon in this API.
 ---
 
 ## 📑 Project structure
 
-* **Main script**: Contains the core logic for searching and displaying Pokémon details from the API.
+* **Main script**: Contains the core logic for searching and displaying Pokemon details from the API.
 
 ---
 
 ## 🚀 Features
 
-* **Pokémon Search**: Search for Pokémon by name and view its stats, weight, and abilities.
+* **Pokemon Search**: Search for Pokemon by name and view its stats, weight, and abilities.
 
-* **Abilities Description**: Displays detailed descriptions of the Pokémon’s abilities, retrieved from the PokéAPI.
+* **Abilities Description**: Displays detailed descriptions of the Pokemon’s abilities, retrieved from the PokeAPI.
 
-* **Error Handling**: If a Pokémon does not exist, an error message is displayed and the program stops.
+* **Error Handling**: If a Pokemon does not exist, an error message is displayed and the program stops.
 
 ---
 
@@ -46,7 +50,7 @@ This Python application allows users to search for Pokémon details, including s
 * **Programming Language**: Python
 
 * **Libraries**:
-  * `requests`: Used to make HTTP requests to the PokéAPI.
+  * `requests`: Used to make HTTP requests to the PokeAPI.
   
 ---
 
