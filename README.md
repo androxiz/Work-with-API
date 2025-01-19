@@ -25,8 +25,8 @@ This Python application allows users to search for Pokemon details, including st
 
 ---
 ## 🐾 Pokemon List
-* You can find all available pockemons [here]((https://pokeapi.co/api/v2/pokemon?limit=100000&offset=0)).
-* Or you can open the file pokemons_list.txt to see the full list of available Pokemon in this API.
+* You can find all available pockemons [here](https://pokeapi.co/api/v2/pokemon?limit=100000&offset=0).
+* Or you can open the file [pokemons_list.txt](pokemons_list.txt) to see the full list of available Pokemon in this API.
 ---
 
 ## 📑 Project structure
