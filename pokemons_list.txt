@@ -8,7 +8,7 @@ Squirtle
 Wartortle 
 Blastoise 
 Caterpie 
-Metapod 
+Metapod
 Butterfree 
 Weedle 
 Kakuna 
